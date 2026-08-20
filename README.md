@@ -30,6 +30,7 @@ A modern, responsive travel agency landing page built with **React** and deploye
 ---
 ## 📁 Component & Project Structure
 
+```text
 src/
 ├── components/
 │   ├── About.js         # About section
@@ -44,6 +45,7 @@ src/
 ├── index.css            # Global styling
 └── index.js             # React DOM entry point
 
+```
 ---
 
 ## 💻 Local Development Setup
